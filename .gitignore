@@ -1,0 +1,4 @@
+.venv
+/gestures/
+/others/
+.DS_Store

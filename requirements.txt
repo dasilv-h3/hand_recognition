@@ -1,0 +1,5 @@
+tensorflow
+matplotlib
+mnist
+scipy
+opencv-python
